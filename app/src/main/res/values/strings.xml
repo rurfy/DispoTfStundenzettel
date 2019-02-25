@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Schichtbericht</string>
+    <string name="datum">Datum</string>
+    <string name="dienstStart">Dienst beginnen</string>
+    <string name="dienstEnde">Dienst beenden</string>
+    <string name="abfahft">Abfahren</string>
+    <string name="ankunft">Ankommen</string>
+    <string name="pausenDauer">Pausendauer</string>
+    <string name="pauseStart">Pause starten</string>
+    <string name="pauseStop">Pause stoppen</string>
+    <string name="send">Schicht absenden</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="switch_title">Settings option</string>
+    <string name="switch_summary">Turn this option on or off</string>
+    <string name="user_name">Name</string>
+    <string name="user_summary">Geben Sie Ihren Namen ein</string>
+    <string name="target_mail">Email</string>
+    <string name="mail_summary">Geben Sie die Email Adresse an, an die der Plan gesendet werden soll</string>
+</resources>

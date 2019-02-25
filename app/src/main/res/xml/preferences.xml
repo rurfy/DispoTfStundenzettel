@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:key="user_name"
+        android:summary="@string/user_summary"
+        android:defaultValue="@string/user_name" />
+
+    <EditTextPreference
+        android:key="target_mail"
+        android:maxLines="1"
+        android:defaultValue="@string/target_mail"
+        android:singleLine="true"
+        android:inputType="textCapWords"
+        android:capitalize="words"
+        android:selectAllOnFocus="true"
+        android:summary="@string/mail_summary"/>
+
+</PreferenceScreen>
